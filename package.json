@@ -1,11 +1,11 @@
 {
-  "name": "city-timezones",
-  "version": "1.2.1",
+  "name": "city-timezones-light",
+  "version": "1.0.0",
   "description": "A light and fast method of looking up timezones given the name of a city.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevinroberts/city-timezones.git"
+    "url": "git+https://github.com/niteshsingh1357/city-timezones-light.git"
   },
   "scripts": {
     "test": "mocha"
@@ -18,13 +18,19 @@
     "lookups",
     "geo"
   ],
-  "homepage": "https://github.com/kevinroberts/city-timezones#readme",
-  "author": "Kevin Roberts",
+  "homepage": "https://github.com/niteshsingh1357/city-timezones-light#readme",
+  "author": "Nitesh Singh",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21"
   },
   "devDependencies": {
     "mocha": "^6.1.3"
+  },
+  "bugs": {
+    "url": "https://github.com/niteshsingh1357/city-timezones-light/issues"
+  },
+  "directories": {
+    "test": "test"
   }
 }
