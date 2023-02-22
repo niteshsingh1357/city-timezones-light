@@ -7636,10 +7636,6 @@
 		"timezone": "Asia/Chongqing"
 	},
 	{
-		"city": "Dali",
-		"timezone": "Asia/Chongqing"
-	},
-	{
 		"city": "Qinhuangdao",
 		"timezone": "Asia/Shanghai"
 	},
@@ -7880,10 +7876,6 @@
 		"timezone": "Asia/Shanghai"
 	},
 	{
-		"city": "Fuyang",
-		"timezone": "Asia/Shanghai"
-	},
-	{
 		"city": "Xiamen",
 		"timezone": "Asia/Shanghai"
 	},
@@ -7952,10 +7944,6 @@
 		"timezone": "Asia/Urumqi"
 	},
 	{
-		"city": "Yulin",
-		"timezone": "Asia/Chongqing"
-	},
-	{
 		"city": "Bose",
 		"timezone": "Asia/Chongqing"
 	},
@@ -7973,10 +7961,6 @@
 	},
 	{
 		"city": "Hefei",
-		"timezone": "Asia/Shanghai"
-	},
-	{
-		"city": "Suzhou",
 		"timezone": "Asia/Shanghai"
 	},
 	{
@@ -12184,10 +12168,6 @@
 		"timezone": "Asia/Kolkata"
 	},
 	{
-		"city": "Aurangabad",
-		"timezone": "Asia/Kolkata"
-	},
-	{
 		"city": "Nasik",
 		"timezone": "Asia/Kolkata"
 	},
@@ -12801,10 +12781,6 @@
 	},
 	{
 		"city": "Surakarta",
-		"timezone": "Asia/Jakarta"
-	},
-	{
-		"city": "Bandar Lampung",
 		"timezone": "Asia/Jakarta"
 	},
 	{
@@ -14541,10 +14517,6 @@
 	},
 	{
 		"city": "Prizren",
-		"timezone": "Europe/Belgrade"
-	},
-	{
-		"city": "Pec",
 		"timezone": "Europe/Belgrade"
 	},
 	{
@@ -18532,10 +18504,6 @@
 		"timezone": "America/Lima"
 	},
 	{
-		"city": "Sechura",
-		"timezone": "America/Lima"
-	},
-	{
 		"city": "Chachapoyas",
 		"timezone": "America/Lima"
 	},
@@ -21300,10 +21268,6 @@
 		"timezone": "Europe/Moscow"
 	},
 	{
-		"city": "Rostov",
-		"timezone": "Europe/Moscow"
-	},
-	{
 		"city": "Sochi",
 		"timezone": "Europe/Moscow"
 	},
@@ -22309,10 +22273,6 @@
 	},
 	{
 		"city": "East London",
-		"timezone": "Africa/Johannesburg"
-	},
-	{
-		"city": "Middelburg",
 		"timezone": "Africa/Johannesburg"
 	},
 	{
@@ -25416,10 +25376,6 @@
 		"timezone": "America/Chicago"
 	},
 	{
-		"city": "Kansas City",
-		"timezone": "America/Chicago"
-	},
-	{
 		"city": "Lawrence",
 		"timezone": "America/Chicago"
 	},
@@ -25808,10 +25764,6 @@
 		"timezone": "America/New_York"
 	},
 	{
-		"city": "Springfield",
-		"timezone": "America/New_York"
-	},
-	{
 		"city": "Lancaster",
 		"timezone": "America/New_York"
 	},
@@ -25822,10 +25774,6 @@
 	{
 		"city": "Kingsport",
 		"timezone": "America/New_York"
-	},
-	{
-		"city": "Columbia",
-		"timezone": "America/Chicago"
 	},
 	{
 		"city": "Barlett",
@@ -25929,10 +25877,6 @@
 	},
 	{
 		"city": "Williamsport",
-		"timezone": "America/New_York"
-	},
-	{
-		"city": "Lancaster",
 		"timezone": "America/New_York"
 	},
 	{
@@ -26692,10 +26636,6 @@
 		"timezone": "America/Chicago"
 	},
 	{
-		"city": "Huntsville",
-		"timezone": "America/Chicago"
-	},
-	{
 		"city": "Killeen",
 		"timezone": "America/Chicago"
 	},
@@ -27004,10 +26944,6 @@
 		"timezone": "America/New_York"
 	},
 	{
-		"city": "Greenville",
-		"timezone": "America/New_York"
-	},
-	{
 		"city": "Fayetteville",
 		"timezone": "America/New_York"
 	},
@@ -27045,10 +26981,6 @@
 	},
 	{
 		"city": "Clarksville",
-		"timezone": "America/Chicago"
-	},
-	{
-		"city": "Jackson",
 		"timezone": "America/Chicago"
 	},
 	{
@@ -27117,10 +27049,6 @@
 	},
 	{
 		"city": "Beckley",
-		"timezone": "America/New_York"
-	},
-	{
-		"city": "Wilmington",
 		"timezone": "America/New_York"
 	},
 	{
@@ -27644,10 +27572,6 @@
 		"timezone": "America/Chicago"
 	},
 	{
-		"city": "Springfield",
-		"timezone": "America/Chicago"
-	},
-	{
 		"city": "Lincoln",
 		"timezone": "America/Chicago"
 	},
@@ -27704,10 +27628,6 @@
 		"timezone": "America/New_York"
 	},
 	{
-		"city": "Augusta",
-		"timezone": "America/New_York"
-	},
-	{
 		"city": "Vicksburg",
 		"timezone": "America/Chicago"
 	},
@@ -27752,10 +27672,6 @@
 		"timezone": "America/New_York"
 	},
 	{
-		"city": "Columbus",
-		"timezone": "America/New_York"
-	},
-	{
 		"city": "Chattanooga",
 		"timezone": "America/New_York"
 	},
@@ -27770,10 +27686,6 @@
 	{
 		"city": "Wausau",
 		"timezone": "America/Chicago"
-	},
-	{
-		"city": "Albany",
-		"timezone": "America/New_York"
 	},
 	{
 		"city": "Ithaca",
@@ -28012,10 +27924,6 @@
 		"timezone": "America/New_York"
 	},
 	{
-		"city": "Jacksonville",
-		"timezone": "America/New_York"
-	},
-	{
 		"city": "Savannah",
 		"timezone": "America/New_York"
 	},
@@ -28037,10 +27945,6 @@
 	},
 	{
 		"city": "Richmond",
-		"timezone": "America/New_York"
-	},
-	{
-		"city": "Charleston",
 		"timezone": "America/New_York"
 	},
 	{

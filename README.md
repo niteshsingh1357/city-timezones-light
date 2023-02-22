@@ -12,7 +12,7 @@ var cityTimezones = require('city-timezones-light');
 
 ### cityTimezones.lookupViaCity(city: string)
 
-If a city is found, returns an **array** of possible matches with city, state, lat, lng, timezone. Returns an empty `[]` if nothing matches. Multiple cities can be found if they have the same name, i.e. Springfield.
+If a city is found, returns an **array** of possible matches with city and timezone. Returns an empty `[]` if nothing matches. Multiple cities can be found if they have the same name, i.e. Springfield.
 
 finding based on city name of Chicago (case insensitive):
 ```javascript
@@ -21,8 +21,7 @@ console.log(cityLookup)
 ```
 Will return:
 ```javascript
-[ { city: 'Chicago',
-    timezone: 'America/Chicago' } ]
+[ { city: 'Chicago', timezone: 'America/Chicago' } ]
 ```
 
 ### cityTimezones.cityMapping
