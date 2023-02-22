@@ -21,9 +21,7 @@
   "homepage": "https://github.com/niteshsingh1357/city-timezones-light#readme",
   "author": "Nitesh Singh",
   "license": "MIT",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^6.1.3"
   },

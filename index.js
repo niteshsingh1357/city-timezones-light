@@ -1,5 +1,4 @@
 "use strict";
-const _ = require("lodash");
 const cityMapping = require("./data/cityMap.json");
 
 function findPartialMatch(itemsToSearch, searchString) {
@@ -12,9 +11,7 @@ function findPartialMatch(itemsToSearch, searchString) {
 
 function lookupViaCity(city) {
 	if (city) {
-		const cityLookup = _.filter(cityMapping, function (o) {
-			return findPartialMatch(o.city, city);
-		});
+		const cityLookup = cityMapping.filter(o => findPartialMatch(o.city, city));
 		if (cityLookup && cityLookup.length) {
 			return cityLookup;
 		}
